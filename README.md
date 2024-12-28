@@ -7,3 +7,6 @@ AirQo’s air quality sensing network has more than 120 low-cost devices deploye
 
 ## Objective
 The objective of this challenge was to predict air quality readings from AirQo’s sensors using Sentinel 5P data.
+
+## License & Rights
+Commercial use of this source code in full or in part will require a written approval by the authors.
