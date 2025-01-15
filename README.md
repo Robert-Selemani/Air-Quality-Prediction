@@ -1,5 +1,5 @@
 # Air-Quality-Prediction
-Air Quality Prediction with a Temporal Fusion Transformer
+Air Quality Prediction Using a Temporal Fusion Transformer
 
 ## About
 
